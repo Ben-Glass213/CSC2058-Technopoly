@@ -1,0 +1,14 @@
+1_name_john
+1_developers_180
+1_currentSquare_6
+1_ownedCompanies_[7, Electronic Games, Company, , 9, Activisor Snow, Company, , 10, Ninetendoe, Company, , 12, GreyApple, Company, , 19, DisplayConnect, Company, , 28, WebDotCom, Company, ]
+1_tools_[7, Electronic Games, Company, , 9, Activisor Snow, Company, ]
+1_products_[]
+1_isTurn_true
+2_name_tim
+2_developers_195
+2_currentSquare_16
+2_ownedCompanies_[2, SecureIT, Company, , 6, Internet Domain, Internet Domains, , 13, ISP, ISP: Utility, , 26, Internet Domain, Internet Domains, , 35, Macrosoft, Company, ]
+2_tools_[]
+2_products_[]
+2_isTurn_true
